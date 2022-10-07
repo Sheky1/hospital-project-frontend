@@ -4,19 +4,19 @@ A large project made in React at the teamlead position for frontend, for an univ
 
 ## Patient preview
 
-[Patients](./patient-preview.png)
+![Patients](./patient-preview.png)
 
 ## Examination schedule
 
-[Schedule](./calendar-nurse.png)
+![Schedule](./calendar-nurse.png)
 
 ## Doctor examination
 
-[Examination](./examination.png)
+![Examination](./examination.png)
 
 ## Patient medical record
 
-[Record](./patient-record.png)
+![Record](./patient-record.png)
 
 ## Available Scripts
 
