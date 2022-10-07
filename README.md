@@ -1,6 +1,6 @@
 # RAF Software Engineering - Hospital - FRONTEND
 
-A large project made in React at the teamlead position for frontend, for an university course "Software Engineering". The project was done in 4 months, with a team of 5 people. It was done in React, accoring to the project specification, and deployed with [Docker}(https://www.docker.com/) and [Kubernetes](https://kubernetes.io/) on [http://bolnica.k8s.elab.rs:32264/](http://bolnica.k8s.elab.rs:32264/). The test user credentials are test@gmail.com-password.
+A large project made in React at the teamlead position for frontend, for an university course "Software Engineering". The project was done in 4 months, with a team of 5 people. It was done in React, accoring to the project specification, and [deployed](http://bolnica.k8s.elab.rs:32264/) with [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/) on. The test user credentials are test@gmail.com-password.
 
 There are 7 roles: admin, doctor, nurse, biochemist, technician and recepcionist
 
