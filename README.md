@@ -1,4 +1,6 @@
-# RAF SI - BOLNICA - FRONTEND
+# RAF Software Engineering - Hospital - FRONTEND
+
+A large project made in React at the teamlead position for frontend, for an university course "Software Engineering". The project was done in 4 months, with a team of 5 people. It was done in React, accoring to the project specification, and deployed with [Docker}(https://www.docker.com/) and [Kubernetes](https://kubernetes.io/). 
 
 ## Available Scripts
 
